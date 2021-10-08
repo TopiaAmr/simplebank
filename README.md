@@ -1,11 +1,8 @@
 # Simple Bank System
-## It's built with GoLang &  Postgresql & Docker
-
 ## Setup local development
 
 ### Install tools
 
-### Postqresql
 It's built using version 14-alpine
 
 - [Docker desktop](https://www.docker.com/products/docker-desktop)
